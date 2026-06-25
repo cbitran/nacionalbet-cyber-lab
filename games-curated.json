@@ -1,0 +1,316 @@
+{
+"alta": [
+{
+"n": "Aviator",
+"slug": "aviator",
+"p": "Spribe",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/aviator.webp",
+"bonus": false
+},
+{
+"n": "Gates of Olympus",
+"slug": "gates-of-olympus",
+"p": "Pragmatic Play",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/gates-of-olympus.webp",
+"bonus": true
+},
+{
+"n": "Fortune Tiger",
+"slug": "fortune-tiger",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/fortune-tiger.webp",
+"bonus": true
+},
+{
+"n": "Fortune Dragon",
+"slug": "fortune-dragon",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/fortune-dragon.webp",
+"bonus": true
+},
+{
+"n": "Fortune Rabbit",
+"slug": "fortune-rabbit",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/fortune-rabbit.webp",
+"bonus": true
+},
+{
+"n": "Fortune Ox",
+"slug": "fortune-ox",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/fortune-ox.webp",
+"bonus": true
+},
+{
+"n": "Tigre Sortudo",
+"slug": "tigre-sortudo",
+"p": "Pragmatic Play",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_02/01JQNYFFVNMH48PE2S2ZJQEWA4.jpg",
+"bonus": true
+},
+{
+"n": "Fortune Mouse",
+"slug": "fortune-mouse",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/fortune-mouse.webp",
+"bonus": true
+},
+{
+"n": "Cash Mania",
+"slug": "cash-mania",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/cash-mania.webp",
+"bonus": true
+},
+{
+"n": "O Vira-lata Caramelo",
+"slug": "o-viralata-caramelo",
+"p": "Pragmatic Play",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_02/o-vira-lata-caramelo.jpg",
+"bonus": true
+},
+{
+"n": "Pinata Wins",
+"slug": "pinata-wins",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/pinata-wins.webp",
+"bonus": true
+},
+{
+"n": "Tsar Treasures",
+"slug": "tsar-treasures",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/tsar-treasures.webp",
+"bonus": true
+},
+{
+"n": "Dragon Hatch",
+"slug": "dragon-hatch",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/dragon-hatch.webp",
+"bonus": true
+},
+{
+"n": "Mines",
+"slug": "spribe-mines",
+"p": "Spribe",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/spribe-mines.webp",
+"bonus": false
+},
+{
+"n": "Wild Ape #3258",
+"slug": "wild-ape",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/wild-ape.webp",
+"bonus": true
+},
+{
+"n": "Phoenix Rises",
+"slug": "phoenix-rises",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/phoenix-rises.webp",
+"bonus": true
+},
+{
+"n": "Double Fortune",
+"slug": "double-fortune",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/double-fortune.webp",
+"bonus": true
+},
+{
+"n": "Piggy Gold",
+"slug": "piggy-gold",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/piggy-gold.webp",
+"bonus": true
+},
+{
+"n": "Sweet Bonanza",
+"slug": "sweet-bonanza",
+"p": "Pragmatic Play",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_02/sweet-bonanza.jpg",
+"bonus": true
+},
+{
+"n": "Lucky Neko",
+"slug": "lucky-neko",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/lucky-neko.webp",
+"bonus": true
+}
+],
+"pg": [
+{
+"n": "Fortune Tiger",
+"slug": "fortune-tiger",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/fortune-tiger.webp",
+"bonus": true
+},
+{
+"n": "Fortune Dragon",
+"slug": "fortune-dragon",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/fortune-dragon.webp",
+"bonus": true
+},
+{
+"n": "Fortune Rabbit",
+"slug": "fortune-rabbit",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/fortune-rabbit.webp",
+"bonus": true
+},
+{
+"n": "Fortune Ox",
+"slug": "fortune-ox",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/fortune-ox.webp",
+"bonus": true
+},
+{
+"n": "Fortune Mouse",
+"slug": "fortune-mouse",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/fortune-mouse.webp",
+"bonus": true
+},
+{
+"n": "Cash Mania",
+"slug": "cash-mania",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/cash-mania.webp",
+"bonus": true
+},
+{
+"n": "Pinata Wins",
+"slug": "pinata-wins",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/pinata-wins.webp",
+"bonus": true
+},
+{
+"n": "Tsar Treasures",
+"slug": "tsar-treasures",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/tsar-treasures.webp",
+"bonus": true
+},
+{
+"n": "Dragon Hatch",
+"slug": "dragon-hatch",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/dragon-hatch.webp",
+"bonus": true
+},
+{
+"n": "Wild Ape #3258",
+"slug": "wild-ape",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/wild-ape.webp",
+"bonus": true
+},
+{
+"n": "Phoenix Rises",
+"slug": "phoenix-rises",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/phoenix-rises.webp",
+"bonus": true
+},
+{
+"n": "Double Fortune",
+"slug": "double-fortune",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/double-fortune.webp",
+"bonus": true
+},
+{
+"n": "Piggy Gold",
+"slug": "piggy-gold",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/piggy-gold.webp",
+"bonus": true
+},
+{
+"n": "Lucky Neko",
+"slug": "lucky-neko",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/lucky-neko.webp",
+"bonus": true
+},
+{
+"n": "Crypto Gold",
+"slug": "crypto-gold",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/crypto-gold.webp",
+"bonus": true
+},
+{
+"n": "Fortune Snake",
+"slug": "fortune-snake",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/fortune-snake.webp",
+"bonus": true
+},
+{
+"n": "Anubis Wrath",
+"slug": "anubis-wrath",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/anubis-wrath.webp",
+"bonus": true
+},
+{
+"n": "Midas Fortune",
+"slug": "midas-fortune",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/midas-fortune.webp",
+"bonus": true
+}
+],
+"feat": [
+{
+"n": "Fortune Tiger",
+"slug": "fortune-tiger",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/fortune-tiger.webp",
+"bonus": true
+},
+{
+"n": "Fortune Mouse",
+"slug": "fortune-mouse",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/fortune-mouse.webp",
+"bonus": true
+},
+{
+"n": "Fortune Dragon",
+"slug": "fortune-dragon",
+"p": "PG Soft",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/fortune-dragon.webp",
+"bonus": true
+},
+{
+"n": "Spaceman",
+"slug": "spaceman",
+"p": "Pragmatic Play",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_02/spaceman.jpg",
+"bonus": false
+},
+{
+"n": "Gates of Olympus",
+"slug": "gates-of-olympus",
+"p": "Pragmatic Play",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_v/gates-of-olympus.webp",
+"bonus": true
+},
+{
+"n": "Sweet Bonanza",
+"slug": "sweet-bonanza",
+"p": "Pragmatic Play",
+"img": "https://lumosdevbucketsouth.s3.sa-east-1.amazonaws.com/uploads/storage/thumbnail_02/sweet-bonanza.jpg",
+"bonus": true
+}
+]
+}
